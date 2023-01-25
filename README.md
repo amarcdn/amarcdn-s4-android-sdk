@@ -1,1 +1,1 @@
-# s3-sdk-android
+# amarcdn-s4-android-sdk
